@@ -1,0 +1,5 @@
+requests
+user-agent
+beautifulsoup4
+python-dotenv
+jxgfjo
